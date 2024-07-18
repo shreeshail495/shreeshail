@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Alternative text</h2>
+
+<p>:</p>
+
+<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
+
+</body>
+</html>
